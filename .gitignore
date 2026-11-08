@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+offline/deals*.npz
+offline/results*/
+offline/results_*.txt
+*.log
+.DS_Store
+.venv-train/
+blueprint3.pkl
+blueprint2L.pkl
+offline/drl/tables_cache.npz

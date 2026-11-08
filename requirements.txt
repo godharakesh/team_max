@@ -1,0 +1,5 @@
+fastapi==0.156.1
+uvicorn==0.54.0
+
+# numpy is preinstalled in the base image (listed without a version to reuse it)
+numpy

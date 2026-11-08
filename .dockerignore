@@ -1,0 +1,12 @@
+.venv/
+.venv-train/
+.git/
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+offline/
+RESEARCH.md
+CITATIONS.md
+BOT_DESIGN.md
+blueprint.pkl
+blueprint3.pkl
