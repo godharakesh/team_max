@@ -39,7 +39,7 @@ from game import Action, AgentConfig, HandResult, Observation, Street
 warmup()
 
 # rename as your team/bot's name
-PARTICIPANT = "ctrl_alt_defeat"
+PARTICIPANT = "team_max"
 AGENT_NAME = "DeepRL_pop3"
 
 
