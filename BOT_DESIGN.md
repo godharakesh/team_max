@@ -1,4 +1,4 @@
-# Bot design: Short Deck PLO5 heads-up (team ctrl_alt_defeat)
+# Bot design: Short Deck PLO5 heads-up (team_max)
 
 The bot follows the recipe of the strongest poker AIs (Libratus/Pluribus), scaled down to a 1-CPU, 8-seconds-per-1000-hands budget:
 
